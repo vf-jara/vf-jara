@@ -1,9 +1,15 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vf-jara&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+
+<h1>Hi! My name is Vinicius and i'm a software developer.</h1>
+
 <!--
 **vf-jara/vf-jara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
+ 
+Currently i'm focused on front-end development, working with React and Next.js
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
