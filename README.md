@@ -1,14 +1,15 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vf-jara&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <h1>Hi! My name is Vinicius and i'm a software developer.</h1>
+
 
 <!--
 **vf-jara/vf-jara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
+<p>
+	Currently i'm focused on front-end development, working with React and Next.js.<br/>
+	In my career i've been in touch with many technologies. I started working professionally developing Wordpress sites and themes with PHP, later decided to focus on Javascript and React, building professional sites and user interfaces.
+</p>
  
-Currently i'm focused on front-end development, working with React and Next.js
+
 
 
 - 🔭 I’m currently working on ...
@@ -20,3 +21,4 @@ Currently i'm focused on front-end development, working with React and Next.js
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vf-jara&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
