@@ -1,13 +1,15 @@
 <h1>Hi! My name is Vinicius and i'm a software developer.</h1>
+<br/>
+<br/>
+<p>
+Front-End Developer, Software Engineering student and Bachelor of Laws. I've been working on the development of web applications, websites and e-commerce, mostly using React, Next.js, Vue and React Native. I'm always trying to evolve as a professional, to be able to produce quality code, updated in the best technologies of all the tools available for the development area. I also have experience with versioning with Git, agile methodologies, databases and CSS frameworks.
+</p>
 
 
 <!--
 **vf-jara/vf-jara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<p>
-	Currently i'm focused on front-end development, working with React and Next.js.<br/>
-	In my career i've been in touch with many technologies. I started working professionally developing Wordpress sites and themes with PHP, later decided to focus on Javascript and React, building professional sites and user interfaces.
-</p>
+
  
 
 
